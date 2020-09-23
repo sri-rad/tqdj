@@ -2,7 +2,7 @@
 
 Set the mood for your lengthy data processing or model training tasks using tfdj, a detailed  **progress bar** that is also a **LOFI RADIO**!!! Run your process, get some coffee, V I B E to the tunes and you'll know you're done when the music stops.
 
-![Alt Text](https://i.gifer.com/9CSA.gif)
+![Alt Text](https://i.imgur.com/rBwi7ti.gif)
 
 tqdj borrows a bunch of code from [tqdm](https://github.com/tqdm/tqdm).
 
