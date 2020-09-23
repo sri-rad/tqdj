@@ -1,4 +1,4 @@
-# :coffee::musical_note:tfdj :musical_note::coffee:
+# tfdj :notes::sparkles:
 
 Set the mood for your lengthy data processing or model training tasks using tfdj, a detailed  **progress bar** that is also a **LOFI RADIO**!!! Run your process, get some coffee, V I B E to the tunes and you'll know you're done when the music stops.
 
