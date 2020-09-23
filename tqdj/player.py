@@ -3,7 +3,6 @@ import simpleaudio as sa
 import asyncio
 import threading
 import random
-
 import os
 
 from simpleaudio._simpleaudio import SimpleaudioError
