@@ -16,7 +16,7 @@ $ pip install tqdj
 
 ### Usage
 ```python
->> from tqdj import tqdj
+>>> from tqdj import tqdj
 ```
 
 Wrap any iterable with tqdj(iterable), and you're done!
